@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "stage-processor@2.0.2",
+        "scope": null,
+        "escapedName": "stage-processor",
+        "name": "stage-processor",
+        "rawSpec": "2.0.2",
+        "spec": "2.0.2",
+        "type": "version"
+      },
+      "/home/karponter/Projects/Private/Evolution_WEB"
+    ]
+  ],
+  "_from": "stage-processor@2.0.2",
+  "_id": "stage-processor@2.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/stage-processor",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/stage-processor-2.0.2.tgz_1475829150124_0.5555551005527377"
+  },
+  "_npmUser": {
+    "name": "karponter",
+    "email": "karponter.tarino@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "stage-processor@2.0.2",
+    "scope": null,
+    "escapedName": "stage-processor",
+    "name": "stage-processor",
+    "rawSpec": "2.0.2",
+    "spec": "2.0.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/stage-processor/-/stage-processor-2.0.2.tgz",
+  "_shasum": "ac6b083ee11d2ade41dc7c58d10cadc0544796b3",
+  "_shrinkwrap": null,
+  "_spec": "stage-processor@2.0.2",
+  "_where": "/home/karponter/Projects/Private/Evolution_WEB",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Karponter/node-stage-processor/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "parameters-spec": "^1.0.0"
+  },
+  "description": "Stage-based code behaviour processor",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ac6b083ee11d2ade41dc7c58d10cadc0544796b3",
+    "tarball": "https://registry.npmjs.org/stage-processor/-/stage-processor-2.0.2.tgz"
+  },
+  "gitHead": "5cdfa131b203bb58fae7d5f4091a83b335a49c60",
+  "homepage": "https://github.com/Karponter/node-stage-processor#readme",
+  "license": "ISC",
+  "main": "src/app/stage-processor.js",
+  "maintainers": [
+    {
+      "name": "karponter",
+      "email": "karponter.tarino@gmail.com"
+    }
+  ],
+  "name": "stage-processor",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karponter/node-stage-processor.git"
+  },
+  "scripts": {
+    "start": "node src/app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.2"
+}

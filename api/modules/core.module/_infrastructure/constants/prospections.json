@@ -1,0 +1,14 @@
+{
+	"TYPES": {
+		"PASS": "pass",
+		"ASSAULT": "assault",
+		"CAST": "cast",
+		"FEED": "feed",
+		"CONSTRUCT": "construct",
+		"INITIATE": "initiate"
+	},
+	"STAGES" : [ 
+		"activity",
+		"construction"
+	]
+}

@@ -1,0 +1,5 @@
+{
+  "PARAM_REQ": "Player rejecter parameters error. `playerId` and `table` are required.",
+  "NOT_READY": "Table is not ready",
+  "NO_PLAYER": "Caller is not sits at the table"
+}

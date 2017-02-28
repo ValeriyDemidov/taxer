@@ -1,0 +1,91 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "parameters-spec@1.1.2",
+        "scope": null,
+        "escapedName": "parameters-spec",
+        "name": "parameters-spec",
+        "rawSpec": "1.1.2",
+        "spec": "1.1.2",
+        "type": "version"
+      },
+      "/home/karponter/Projects/Private/Evolution_WEB"
+    ]
+  ],
+  "_from": "parameters-spec@1.1.2",
+  "_id": "parameters-spec@1.1.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/parameters-spec",
+  "_nodeVersion": "6.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/parameters-spec-1.1.2.tgz_1475828134343_0.29116186895407736"
+  },
+  "_npmUser": {
+    "name": "karponter",
+    "email": "karponter.tarino@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "parameters-spec@1.1.2",
+    "scope": null,
+    "escapedName": "parameters-spec",
+    "name": "parameters-spec",
+    "rawSpec": "1.1.2",
+    "spec": "1.1.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/",
+    "/stage-processor"
+  ],
+  "_resolved": "https://registry.npmjs.org/parameters-spec/-/parameters-spec-1.1.2.tgz",
+  "_shasum": "9fde17078297f777c1bd35e092929be06293a402",
+  "_shrinkwrap": null,
+  "_spec": "parameters-spec@1.1.2",
+  "_where": "/home/karponter/Projects/Private/Evolution_WEB",
+  "author": {
+    "name": "Vlad Dotsenko"
+  },
+  "bugs": {
+    "url": "https://github.com/Karponter/node-parameters-spec/issues"
+  },
+  "dependencies": {},
+  "description": "Mongoose-like parameters validator. Allows to create parameters spec with spepcifying types and default values.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9fde17078297f777c1bd35e092929be06293a402",
+    "tarball": "https://registry.npmjs.org/parameters-spec/-/parameters-spec-1.1.2.tgz"
+  },
+  "gitHead": "1b5158f74e77eab99119842ef503c23d27cf5947",
+  "homepage": "https://github.com/Karponter/node-parameters-spec#readme",
+  "keywords": [
+    "parameters",
+    "validation",
+    "type"
+  ],
+  "license": "MIT",
+  "main": "parameter-spec.js",
+  "maintainers": [
+    {
+      "name": "karponter",
+      "email": "karponter.tarino@gmail.com"
+    }
+  ],
+  "name": "parameters-spec",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karponter/node-parameters-spec.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}

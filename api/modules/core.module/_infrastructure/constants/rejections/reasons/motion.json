@@ -1,0 +1,6 @@
+{
+  "PARAM_REQ": "Motion rejecter parameters error. `motionName` and `table` are required.",
+  "NOT_READY": "Table is not ready",
+  "NOT_ALLOWED": "Motion is not allowed",
+  "WRONG_MOTION": "Motion is not allowed at this time"
+}

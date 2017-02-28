@@ -1,0 +1,14 @@
+{
+  "LIST": [
+    "activity",
+    "construction",
+    "bootstrap",
+    "dealing",
+    "death"
+  ],
+  "ACTIVITY": "activity",
+  "CONSTRUCTION": "construction",
+  "BOOTSTRAP": "bootstrap",
+  "DEALING": "dealing",
+  "DEATH": "death"
+}

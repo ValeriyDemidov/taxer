@@ -1,0 +1,27 @@
+{
+  "name": "taxer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "expressjs": "^1.0.1",
+    "mongodb": "^2.2.24"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fraideron/taxer.git"
+  },
+  "author": "Valeriy Demidov & Vlad Dotsenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fraideron/taxer/issues"
+  },
+  "homepage": "https://github.com/Fraideron/taxer#readme"
+}

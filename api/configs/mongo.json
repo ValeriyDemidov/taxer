@@ -1,0 +1,7 @@
+{
+  "engine": "mongodb",
+  "host": "localhost",
+  "database": "taxer",
+  "user": "",
+  "password": ""
+}
